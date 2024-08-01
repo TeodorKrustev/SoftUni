@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_GetGreeting.Tests
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\obj\Debug\net8.0\GetGreeting.Tests.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\obj\Debug\net8.0\GetGreeting.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\obj\Debug\net8.0\GetGreeting.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\obj\Debug\net8.0\GetGreeting.Tests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Back-End Technologies Basics\Unit-Testing-With-Mocking\GetGreeting.Tests\obj\Debug\net8.0\GetGreeting.Tests.csproj.CoreCompileInputs.cache
