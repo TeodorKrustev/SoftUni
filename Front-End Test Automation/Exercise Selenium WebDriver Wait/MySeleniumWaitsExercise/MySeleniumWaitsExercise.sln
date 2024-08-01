@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchKeyboardImplicitWait", "MySeleniumWaitsExercise\SearchKeyboardImplicitWait.csproj", "{4E31092E-6D71-4917-826F-4DD042097101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchKeyboardExplicitWait", "SearchKeyboardExplicitWait\SearchKeyboardExplicitWait.csproj", "{0658F818-BDC5-4DAA-8CDB-78111EF75F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWindows", "WorkingWithWindows\WorkingWithWindows.csproj", "{917132D8-AAEF-41A4-9D59-4DC756EA217A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleWithAlerts", "HandleWithAlerts\HandleWithAlerts.csproj", "{6AA1CD46-03CC-4A50-9981-12F42A254081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithIFrames", "WorkingWithIFrames\WorkingWithIFrames.csproj", "{2EAD79E2-1E43-4B9B-8382-2C020811B521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E31092E-6D71-4917-826F-4DD042097101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E31092E-6D71-4917-826F-4DD042097101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E31092E-6D71-4917-826F-4DD042097101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E31092E-6D71-4917-826F-4DD042097101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0658F818-BDC5-4DAA-8CDB-78111EF75F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0658F818-BDC5-4DAA-8CDB-78111EF75F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0658F818-BDC5-4DAA-8CDB-78111EF75F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0658F818-BDC5-4DAA-8CDB-78111EF75F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917132D8-AAEF-41A4-9D59-4DC756EA217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917132D8-AAEF-41A4-9D59-4DC756EA217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917132D8-AAEF-41A4-9D59-4DC756EA217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917132D8-AAEF-41A4-9D59-4DC756EA217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA1CD46-03CC-4A50-9981-12F42A254081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA1CD46-03CC-4A50-9981-12F42A254081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA1CD46-03CC-4A50-9981-12F42A254081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA1CD46-03CC-4A50-9981-12F42A254081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAD79E2-1E43-4B9B-8382-2C020811B521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAD79E2-1E43-4B9B-8382-2C020811B521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAD79E2-1E43-4B9B-8382-2C020811B521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAD79E2-1E43-4B9B-8382-2C020811B521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD5C916-1E0F-43A3-BD8C-9D9F0B42C072}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+current handle: 248C602F93987B1EF6C6850F10D71E98page content: <html><head>
+  <title>New Window</title>
+</head>
+
+<body><div class="example">
+  <h3>New Window</h3>
+</div>
+</body></html>NoSuchWindowExceptionCaught: no such window
+  (Session info: chrome=122.0.6261.129)
+
