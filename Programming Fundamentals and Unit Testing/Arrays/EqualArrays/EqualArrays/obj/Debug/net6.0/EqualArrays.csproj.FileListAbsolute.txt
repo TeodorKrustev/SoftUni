@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\refint\EqualArrays.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Arrays\EqualArrays\EqualArrays\obj\Debug\net6.0\ref\EqualArrays.dll

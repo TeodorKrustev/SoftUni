@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\TicketPrice\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

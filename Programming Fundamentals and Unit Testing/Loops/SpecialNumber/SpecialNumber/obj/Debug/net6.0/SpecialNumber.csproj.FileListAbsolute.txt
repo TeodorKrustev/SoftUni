@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\bin\Debug\net6.0\SpecialNumber.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\bin\Debug\net6.0\SpecialNumber.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\bin\Debug\net6.0\SpecialNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\bin\Debug\net6.0\SpecialNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\bin\Debug\net6.0\SpecialNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\refint\SpecialNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\SpecialNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\SpecialNumber\SpecialNumber\obj\Debug\net6.0\ref\SpecialNumber.dll

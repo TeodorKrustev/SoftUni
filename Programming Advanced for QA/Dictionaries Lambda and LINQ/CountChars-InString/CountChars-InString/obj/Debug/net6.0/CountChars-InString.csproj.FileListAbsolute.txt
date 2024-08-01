@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\bin\Debug\net6.0\CountChars-InString.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\bin\Debug\net6.0\CountChars-InString.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\bin\Debug\net6.0\CountChars-InString.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\bin\Debug\net6.0\CountChars-InString.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\bin\Debug\net6.0\CountChars-InString.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\refint\CountChars-InString.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\CountChars-InString.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CountChars-InString\CountChars-InString\obj\Debug\net6.0\ref\CountChars-InString.dll

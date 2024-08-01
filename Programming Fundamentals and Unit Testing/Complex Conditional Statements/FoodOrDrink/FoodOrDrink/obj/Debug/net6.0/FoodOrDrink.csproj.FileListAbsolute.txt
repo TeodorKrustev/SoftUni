@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\refint\FoodOrDrink.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\FoodOrDrink\FoodOrDrink\obj\Debug\net6.0\ref\FoodOrDrink.dll

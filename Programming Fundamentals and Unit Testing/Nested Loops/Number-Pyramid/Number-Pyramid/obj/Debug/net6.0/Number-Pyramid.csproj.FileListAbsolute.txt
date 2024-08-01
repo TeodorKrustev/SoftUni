@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\bin\Debug\net6.0\Number-Pyramid.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\bin\Debug\net6.0\Number-Pyramid.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\bin\Debug\net6.0\Number-Pyramid.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\bin\Debug\net6.0\Number-Pyramid.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\bin\Debug\net6.0\Number-Pyramid.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\refint\Number-Pyramid.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\Number-Pyramid.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Number-Pyramid\Number-Pyramid\obj\Debug\net6.0\ref\Number-Pyramid.dll

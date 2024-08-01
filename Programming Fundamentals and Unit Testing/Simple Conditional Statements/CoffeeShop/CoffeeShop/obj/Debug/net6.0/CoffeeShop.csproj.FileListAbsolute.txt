@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\CoffeeShop\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll

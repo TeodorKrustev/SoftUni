@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\refint\ListManipulationBasics.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Lists\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ref\ListManipulationBasics.dll

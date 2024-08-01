@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\bin\Debug\net6.0\VowelOrConsonant.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\refint\VowelOrConsonant.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\VowelOrConsonant.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\VowelOrConsonant\VowelOrConsonant\obj\Debug\net6.0\ref\VowelOrConsonant.dll

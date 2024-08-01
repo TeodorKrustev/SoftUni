@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\bin\Debug\net6.0\SummerOutfit.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\bin\Debug\net6.0\SummerOutfit.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\bin\Debug\net6.0\SummerOutfit.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\bin\Debug\net6.0\SummerOutfit.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\bin\Debug\net6.0\SummerOutfit.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\refint\SummerOutfit.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\SummerOutfit.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\SummerOutfit\SummerOutfit\obj\Debug\net6.0\ref\SummerOutfit.dll

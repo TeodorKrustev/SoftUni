@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\bin\Debug\net6.0\OddNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\refint\OddNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\OddNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\OddNumber\OddNumber\obj\Debug\net6.0\ref\OddNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\bin\Debug\net6.0\Freezing Weather.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\bin\Debug\net6.0\Freezing Weather.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\bin\Debug\net6.0\Freezing Weather.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\bin\Debug\net6.0\Freezing Weather.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\bin\Debug\net6.0\Freezing Weather.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\refint\Freezing Weather.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\Freezing Weather.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Freezing Weather\Freezing Weather\obj\Debug\net6.0\ref\Freezing Weather.dll

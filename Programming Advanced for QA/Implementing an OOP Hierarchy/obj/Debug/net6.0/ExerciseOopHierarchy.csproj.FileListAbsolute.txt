@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Implementing an OOP Hierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

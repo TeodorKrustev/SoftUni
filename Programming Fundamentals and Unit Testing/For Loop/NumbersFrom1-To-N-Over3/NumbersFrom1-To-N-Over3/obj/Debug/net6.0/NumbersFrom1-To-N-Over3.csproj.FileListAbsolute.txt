@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\bin\Debug\net6.0\NumbersFrom1-To-N-Over3.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\bin\Debug\net6.0\NumbersFrom1-To-N-Over3.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\bin\Debug\net6.0\NumbersFrom1-To-N-Over3.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\bin\Debug\net6.0\NumbersFrom1-To-N-Over3.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\bin\Debug\net6.0\NumbersFrom1-To-N-Over3.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\refint\NumbersFrom1-To-N-Over3.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\NumbersFrom1-To-N-Over3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersFrom1-To-N-Over3\NumbersFrom1-To-N-Over3\obj\Debug\net6.0\ref\NumbersFrom1-To-N-Over3.dll

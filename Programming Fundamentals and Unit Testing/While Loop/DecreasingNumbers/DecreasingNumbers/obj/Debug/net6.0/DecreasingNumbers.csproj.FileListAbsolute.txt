@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\refint\DecreasingNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\While Loop\DecreasingNumbers\DecreasingNumbers\obj\Debug\net6.0\ref\DecreasingNumbers.dll

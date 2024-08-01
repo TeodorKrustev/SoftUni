@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\bin\Debug\net6.0\SortedNumbers.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\bin\Debug\net6.0\SortedNumbers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\bin\Debug\net6.0\SortedNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\bin\Debug\net6.0\SortedNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\bin\Debug\net6.0\SortedNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\refint\SortedNumbers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\SortedNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\SortedNumbers\SortedNumbers\obj\Debug\net6.0\ref\SortedNumbers.dll

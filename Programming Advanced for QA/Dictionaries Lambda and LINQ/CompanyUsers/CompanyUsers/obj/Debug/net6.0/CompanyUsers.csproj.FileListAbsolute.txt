@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\bin\Debug\net6.0\CompanyUsers.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\bin\Debug\net6.0\CompanyUsers.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\bin\Debug\net6.0\CompanyUsers.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\bin\Debug\net6.0\CompanyUsers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\bin\Debug\net6.0\CompanyUsers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\refint\CompanyUsers.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\CompanyUsers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Dictionaries Lambda and LINQ\CompanyUsers\CompanyUsers\obj\Debug\net6.0\ref\CompanyUsers.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\GreaterNumber\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

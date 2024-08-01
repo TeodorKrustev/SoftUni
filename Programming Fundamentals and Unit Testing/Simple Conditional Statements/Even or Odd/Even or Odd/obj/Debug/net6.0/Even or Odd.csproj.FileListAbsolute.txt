@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\bin\Debug\net6.0\Even or Odd.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\bin\Debug\net6.0\Even or Odd.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\bin\Debug\net6.0\Even or Odd.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\bin\Debug\net6.0\Even or Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\bin\Debug\net6.0\Even or Odd.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\refint\Even or Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\Even or Odd.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Even or Odd\Even or Odd\obj\Debug\net6.0\ref\Even or Odd.dll

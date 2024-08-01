@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\bin\Debug\net6.0\WorkingHours.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\bin\Debug\net6.0\WorkingHours.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\bin\Debug\net6.0\WorkingHours.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\bin\Debug\net6.0\WorkingHours.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\bin\Debug\net6.0\WorkingHours.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\refint\WorkingHours.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\WorkingHours.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\WorkingHours\WorkingHours\obj\Debug\net6.0\ref\WorkingHours.dll

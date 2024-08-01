@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\refint\AreaOfFigures.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\AreaOfFigures\AreaOfFigures\obj\Debug\net6.0\ref\AreaOfFigures.dll

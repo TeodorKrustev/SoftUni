@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\bin\Debug\net6.0\MarketPlace.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\bin\Debug\net6.0\MarketPlace.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\bin\Debug\net6.0\MarketPlace.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\bin\Debug\net6.0\MarketPlace.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\bin\Debug\net6.0\MarketPlace.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\refint\MarketPlace.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\MarketPlace.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\MarketPlace\MarketPlace\obj\Debug\net6.0\ref\MarketPlace.dll

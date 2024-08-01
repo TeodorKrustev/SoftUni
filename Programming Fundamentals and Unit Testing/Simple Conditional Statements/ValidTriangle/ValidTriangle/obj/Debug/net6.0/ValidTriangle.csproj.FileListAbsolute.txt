@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\bin\Debug\net6.0\ValidTriangle.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\bin\Debug\net6.0\ValidTriangle.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\bin\Debug\net6.0\ValidTriangle.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\bin\Debug\net6.0\ValidTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\bin\Debug\net6.0\ValidTriangle.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\refint\ValidTriangle.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ValidTriangle.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\ValidTriangle\ValidTriangle\obj\Debug\net6.0\ref\ValidTriangle.dll

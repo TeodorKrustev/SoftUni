@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\bin\Debug\net6.0\First-N-NumbersSum.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\bin\Debug\net6.0\First-N-NumbersSum.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\bin\Debug\net6.0\First-N-NumbersSum.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\bin\Debug\net6.0\First-N-NumbersSum.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\bin\Debug\net6.0\First-N-NumbersSum.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\refint\First-N-NumbersSum.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\First-N-NumbersSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\First-N-NumbersSum\First-N-NumbersSum\obj\Debug\net6.0\ref\First-N-NumbersSum.dll

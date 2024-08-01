@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\bin\Debug\net6.0\Students.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\bin\Debug\net6.0\Students.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\bin\Debug\net6.0\Students.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\bin\Debug\net6.0\Students.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\bin\Debug\net6.0\Students.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\refint\Students.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\Students.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Advanced for QA\Objects and Classes P2\Students\Students\obj\Debug\net6.0\ref\Students.dll

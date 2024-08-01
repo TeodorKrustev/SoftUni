@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondenseArrayToNumber", "CondenseArrayToNumber\CondenseArrayToNumber.csproj", "{2FD72780-DF4F-41C8-8EA5-5B0488AAD03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD72780-DF4F-41C8-8EA5-5B0488AAD03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD72780-DF4F-41C8-8EA5-5B0488AAD03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD72780-DF4F-41C8-8EA5-5B0488AAD03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD72780-DF4F-41C8-8EA5-5B0488AAD03B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1145ABEA-DA52-4FD7-A2DB-9B03E9B93FEE}
+	EndGlobalSection
+EndGlobal

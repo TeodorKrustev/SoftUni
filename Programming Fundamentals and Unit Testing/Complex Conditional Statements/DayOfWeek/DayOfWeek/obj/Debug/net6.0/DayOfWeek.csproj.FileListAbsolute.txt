@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\bin\Debug\net6.0\DayOfWeek.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\bin\Debug\net6.0\DayOfWeek.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\bin\Debug\net6.0\DayOfWeek.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\bin\Debug\net6.0\DayOfWeek.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\bin\Debug\net6.0\DayOfWeek.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\refint\DayOfWeek.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\DayOfWeek.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\DayOfWeek\DayOfWeek\obj\Debug\net6.0\ref\DayOfWeek.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\bin\Debug\net6.0\BiggestNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\refint\BiggestNumber.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\BiggestNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Loops\BiggestNumber\BiggestNumber\obj\Debug\net6.0\ref\BiggestNumber.dll

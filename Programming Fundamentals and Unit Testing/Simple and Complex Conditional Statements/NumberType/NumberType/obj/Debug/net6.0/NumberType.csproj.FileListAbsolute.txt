@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\bin\Debug\net6.0\NumberType.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\bin\Debug\net6.0\NumberType.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\bin\Debug\net6.0\NumberType.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\bin\Debug\net6.0\NumberType.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\bin\Debug\net6.0\NumberType.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\refint\NumberType.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\NumberType.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberType\NumberType\obj\Debug\net6.0\ref\NumberType.dll

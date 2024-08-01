@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\bin\Debug\net6.0\VacationExpenses.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\bin\Debug\net6.0\VacationExpenses.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\bin\Debug\net6.0\VacationExpenses.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\bin\Debug\net6.0\VacationExpenses.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\bin\Debug\net6.0\VacationExpenses.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\refint\VacationExpenses.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\VacationExpenses.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\VacationExpenses\VacationExpenses\obj\Debug\net6.0\ref\VacationExpenses.dll

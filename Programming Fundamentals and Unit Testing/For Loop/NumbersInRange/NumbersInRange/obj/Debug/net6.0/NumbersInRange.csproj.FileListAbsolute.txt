@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\bin\Debug\net6.0\NumbersInRange.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\bin\Debug\net6.0\NumbersInRange.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\bin\Debug\net6.0\NumbersInRange.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\bin\Debug\net6.0\NumbersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\bin\Debug\net6.0\NumbersInRange.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\refint\NumbersInRange.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\NumbersInRange.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\For Loop\NumbersInRange\NumbersInRange\obj\Debug\net6.0\ref\NumbersInRange.dll

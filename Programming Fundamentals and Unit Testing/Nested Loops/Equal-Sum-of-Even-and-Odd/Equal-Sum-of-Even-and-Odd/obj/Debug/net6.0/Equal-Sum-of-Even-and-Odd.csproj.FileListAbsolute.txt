@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\bin\Debug\net6.0\Equal-Sum-of-Even-and-Odd.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\bin\Debug\net6.0\Equal-Sum-of-Even-and-Odd.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\bin\Debug\net6.0\Equal-Sum-of-Even-and-Odd.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\bin\Debug\net6.0\Equal-Sum-of-Even-and-Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\bin\Debug\net6.0\Equal-Sum-of-Even-and-Odd.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\refint\Equal-Sum-of-Even-and-Odd.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\Equal-Sum-of-Even-and-Odd.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Nested Loops\Equal-Sum-of-Even-and-Odd\Equal-Sum-of-Even-and-Odd\obj\Debug\net6.0\ref\Equal-Sum-of-Even-and-Odd.dll

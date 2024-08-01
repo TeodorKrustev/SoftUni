@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TrelloAPIFinalCollection" tests="10" time="5.090">
+  <testsuite name="Get All Boards" id="4440a9f5-e77f-463a-9666-a5b01c0165c0" timestamp="2024-03-27T12:13:23.203Z" tests="3" failures="1" errors="0" time="1.871">
+    <testcase name="Status code is 200" time="1.871" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get All Boards.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:1).]]>
+      </failure>
+    </testcase>
+    <testcase name="Response time is less than 30 seconds" time="1.871" classname="TrelloApiFinalCollection"/>
+    <testcase name="Response body is not empty" time="1.871" classname="TrelloApiFinalCollection"/>
+  </testsuite>
+  <testsuite name="Create a Board" id="c87801ee-0363-47e8-85f3-0ae172875c84" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.372">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'i' at 1:1
+invalid key
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.372" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Create a Board.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:2).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Get Single Board" id="aa517fb2-8e3d-4681-9417-fe59e9c1d975" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.810">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'C' at 1:1
+Cannot GET /1/boards/?key=https://api.trello.com&token=[{%22key%22:%22trelloTok
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.810" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 404">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get Single Board.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 404.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 404
+   at Object.eval sandbox-script.js:1:3).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Create TO DO list" id="22e4615b-267f-4c91-aa15-2ca92be3a012" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.228">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'i' at 1:1
+invalid key
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.228" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Create TO DO list.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:4).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Create list with Unique Name" id="8425eb3e-61ce-47cf-90d4-04dea3ddbc88" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.329">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'i' at 1:1
+invalid key
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.329" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Create list with Unique Name.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:5).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Get All Lists from a Board" id="dce2a370-2a98-4b1d-83d4-2dd38cfc1693" timestamp="2024-03-27T12:13:23.203Z" tests="4" failures="4" errors="0" time="0.216">
+    <testcase name="Status code is 200" time="0.216" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get All Lists from a Board.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:6).]]>
+      </failure>
+    </testcase>
+    <testcase name="Response array is not empty" time="0.216" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="Unexpected token 'i' at 1:1&#xA;invalid key&#xA;^">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get All Lists from a Board.]]>
+        <![CDATA[Test description: Response array is not empty.]]>
+        <![CDATA[Error message: Unexpected token 'i' at 1:1
+invalid key
+^.]]>
+        <![CDATA[Stacktrace: JSONError: Unexpected token 'i' at 1:1
+invalid key
+^
+   at Object.eval sandbox-script.js:2:6).]]>
+      </failure>
+    </testcase>
+    <testcase name="Response is an array" time="0.216" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="Unexpected token 'i' at 1:1&#xA;invalid key&#xA;^">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get All Lists from a Board.]]>
+        <![CDATA[Test description: Response is an array.]]>
+        <![CDATA[Error message: Unexpected token 'i' at 1:1
+invalid key
+^.]]>
+        <![CDATA[Stacktrace: JSONError: Unexpected token 'i' at 1:1
+invalid key
+^
+   at Object.eval sandbox-script.js:3:6).]]>
+      </failure>
+    </testcase>
+    <testcase name="List with a specific name is present" time="0.216" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="Unexpected token 'i' at 1:1&#xA;invalid key&#xA;^">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Get All Lists from a Board.]]>
+        <![CDATA[Test description: List with a specific name is present.]]>
+        <![CDATA[Error message: Unexpected token 'i' at 1:1
+invalid key
+^.]]>
+        <![CDATA[Stacktrace: JSONError: Unexpected token 'i' at 1:1
+invalid key
+^
+   at Object.eval sandbox-script.js:4:6).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Create Card in TO DO List" id="467de976-e8c2-4599-853a-171305910a50" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.374">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'i' at 1:1
+invalid key
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.374" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 401">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Create Card in TO DO List.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 401.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 401
+   at Object.eval sandbox-script.js:1:7).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Move Card to List with Unique Name" id="64859382-b585-48d1-9591-fdf770c29247" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.306">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'C' at 1:1
+Cannot PUT /1/cards/?key=https://api.trello.com&token=[{%22key%22:%22trelloToke
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.306" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 404">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Move Card to List with Unique Name.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 404.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 404
+   at Object.eval sandbox-script.js:1:8).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Delete Card" id="8ac1615a-fc0f-491b-b71b-a77d5078b5ad" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.238">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'C' at 1:1
+Cannot DELETE /1/cards/?key=https://api.trello.com&token=[{%22key%22:%22trelloT
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.238" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 404">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Delete Card.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 404.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 404
+   at Object.eval sandbox-script.js:1:9).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="Delete Board" id="3a070199-b317-4bc8-9d91-76aa13f8ce59" timestamp="2024-03-27T12:13:23.203Z" tests="1" failures="1" errors="1" time="0.346">
+    <system-err><![CDATA[Iteration: 0
+
+---
+testScriptError: Unexpected token 'C' at 1:1
+Cannot DELETE /1/boards/?&key=https://api.trello.com&token=[{%22key%22:%22trell
+^
+---
+]]></system-err>
+    <testcase name="Status code is 200" time="0.346" classname="TrelloApiFinalCollection">
+      <failure type="AssertionFailure" message="expected response to have status code 200 but got 404">
+        <![CDATA[Failed 1 times.]]>
+        <![CDATA[Collection JSON ID: 2f6080d8-3dde-45ef-8738-89d679a65c6c.]]>
+        <![CDATA[Collection name: TrelloAPIFinalCollection.]]>
+        <![CDATA[Request name: Delete Board.]]>
+        <![CDATA[Test description: Status code is 200.]]>
+        <![CDATA[Error message: expected response to have status code 200 but got 404.]]>
+        <![CDATA[Stacktrace: AssertionError: expected response to have status code 200 but got 404
+   at Object.eval sandbox-script.js:1:10).]]>
+      </failure>
+    </testcase>
+  </testsuite>
+</testsuites>

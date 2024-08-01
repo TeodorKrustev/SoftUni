@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\bin\Debug\net6.0\ProductOfThree.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\bin\Debug\net6.0\ProductOfThree.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\bin\Debug\net6.0\ProductOfThree.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\bin\Debug\net6.0\ProductOfThree.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\bin\Debug\net6.0\ProductOfThree.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\refint\ProductOfThree.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ProductOfThree.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\ProductOfThree\ProductOfThree\obj\Debug\net6.0\ref\ProductOfThree.dll

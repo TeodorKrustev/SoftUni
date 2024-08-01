@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\bin\Debug\net6.0\NumberOperations.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\bin\Debug\net6.0\NumberOperations.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\bin\Debug\net6.0\NumberOperations.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\bin\Debug\net6.0\NumberOperations.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\bin\Debug\net6.0\NumberOperations.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\refint\NumberOperations.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\NumberOperations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Programming Fundamentals and Unit Testing\Simple and Complex Conditional Statements\NumberOperations\NumberOperations\obj\Debug\net6.0\ref\NumberOperations.dll

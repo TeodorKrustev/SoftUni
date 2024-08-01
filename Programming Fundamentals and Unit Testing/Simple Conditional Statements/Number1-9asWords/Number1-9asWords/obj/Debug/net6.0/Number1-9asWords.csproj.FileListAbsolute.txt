@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\bin\Debug\net6.0\Number1-9asWords.exe
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\bin\Debug\net6.0\Number1-9asWords.deps.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\bin\Debug\net6.0\Number1-9asWords.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\bin\Debug\net6.0\Number1-9asWords.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\bin\Debug\net6.0\Number1-9asWords.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.sourcelink.json
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\refint\Number1-9asWords.dll
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.pdb
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\Number1-9asWords.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SoftUni-Courses\Simple Conditional Statements\Number1-9asWords\Number1-9asWords\obj\Debug\net6.0\ref\Number1-9asWords.dll
